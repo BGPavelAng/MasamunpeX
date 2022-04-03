@@ -1,6 +1,6 @@
 # MasamunPEX
 Version Masamunpe para Linux.<br>
-Es una herramienta para analizar procesos en ejecución en linux que podrían estar dañando al sistema como algun malware. Ataca programas en memoría para ayudar a comprender el funcionamiento.
+Es una herramienta para analizar procesos en ejecución en linux que podrían estar dañando al sistema como algun malware.<br> Ataca programas en memoría para ayudar a comprender el funcionamiento.
 
 Actualmente:
 Se puede listar los procesos ejecutados.<br>
