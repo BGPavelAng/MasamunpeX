@@ -21,6 +21,7 @@
 #include "headers/segHead.h"
 #include "headers/hexview.h"
 #include "headers/segPro.h"
+#include "headers/dmp_mry.h"
 
 
 void ayuda(){
@@ -30,6 +31,7 @@ void ayuda(){
     printf("\t%s\n", "-p Listado de procesos");
     printf("\t%s\n", "-sH [Id] - Mostrar datos de segmentos");
     printf("\t%s\n", "-X [Id] - Dump de Hexadecimales");
+    printf("\t%s\n", "-dM [Id] - Dump de Memoria");
     printf("\t%s\n\n", "-PH [Id] - Mostrar datos del programa");
 
 
@@ -97,6 +99,14 @@ if(strncmp(argv[1], "-X", 2) == 0){
     	hexView(argv[2]);
     }else{
     	ayuda();
+    }
+}
+
+if(strncmp(argv[1], "-dM", 2) == 0){
+    if(argv[2] > 0){
+        mem_dmp(argv[2]);
+    }else{
+        ayuda();
     }
 }
 
