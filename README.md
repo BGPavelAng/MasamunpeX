@@ -6,8 +6,8 @@ Actualmente:
 Se puede listar los procesos ejecutados.<br>
 Mostrar datos del programa ( mapeo ELF).<br>
 Mostrar datos de segmentos ( mapeo ELF).<br>
-Lista de hexadecimales.<br><br>
-Dumpeo de memoria y mapeo de /proc/{id}/mem<br>
+Lista de hexadecimales.<br>
+Dumpeo de memoria y mapeo de /proc/{id}/mem<br><br>
 
 Procesos faltantes:<br><br>
 
