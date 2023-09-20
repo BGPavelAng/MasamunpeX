@@ -38,7 +38,7 @@ int hexView (const char *nameHx){
 		}
 
 		sizeHex = fgetc(filehex);
-		printf("%02x ", sizeHex);
+		printf("%02lx ", sizeHex);
 		d++; 
 
 		buffHex[d]= sizeHex;

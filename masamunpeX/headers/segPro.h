@@ -77,11 +77,11 @@ int proHeaders (const char *snamePh){
 	}
 
 	printf("\n%s\n", buff_ptyp);
-	printf("[+]Offset:                         0x%016x\n", pHDR[hdphoff].p_offset);
-	printf("[+]Virtual Address:                0x%016x\n", pHDR[hdphoff].p_vaddr);
-	printf("[+]Physical Address:               0x%016x\n", pHDR[hdphoff].p_paddr);
-	printf("[+]Bytes p_filesz:                 0x%016x\n", pHDR[hdphoff].p_filesz);
-	printf("[+]Bytes p_memsz:                  0x%016x\n", pHDR[hdphoff].p_memsz);
+	printf("[+]Offset:                         0x%016lx\n", pHDR[hdphoff].p_offset);
+	printf("[+]Virtual Address:                0x%016lx\n", pHDR[hdphoff].p_vaddr);
+	printf("[+]Physical Address:               0x%016lx\n", pHDR[hdphoff].p_paddr);
+	printf("[+]Bytes p_filesz:                 0x%016lx\n", pHDR[hdphoff].p_filesz);
+	printf("[+]Bytes p_memsz:                  0x%016lx\n", pHDR[hdphoff].p_memsz);
 
 	switch(pHDR[hdphoff].p_flags){
 		case PF_X: buff_pflg = "Segmento executable";
@@ -95,9 +95,9 @@ int proHeaders (const char *snamePh){
 	printf("[+]Flag:                           %s\n", buff_pflg);
 
 	if((pHDR[hdphoff].p_align) <= 0){
-	printf("[+]Alineamiento:                   0x%016x (No necesita alinamiento)\n", pHDR[hdphoff].p_align);
+	printf("[+]Alineamiento:                   0x%016lx (No necesita alinamiento)\n", pHDR[hdphoff].p_align);
 }else{
-	printf("[+]Alineamiento:                   0x%016x\n", pHDR[hdphoff].p_align);
+	printf("[+]Alineamiento:                   0x%016lx\n", pHDR[hdphoff].p_align);
 }
 
 }

@@ -5,26 +5,22 @@ void dmp_writ(FILE *MM, unsigned long whStar, long total){
 	unsigned long whAddr = 0;
 	int Longitud = 4096;
 	unsigned char pag[4096];
+	char buff[1];
 	fseek(MM, whStar,SEEK_SET);
 	char pau;
+
+	FILE * guardar;
+	guardar = fopen("dump_memory.txt", "w");
 
 	for(whAddr = whStar; whAddr < whStar+total; whAddr+=Longitud){
 
 		fread(&pag, 1, Longitud, MM);
-		fwrite(&pag, 1, Longitud, stdout);
+		fwrite(&pag, 1, Longitud, guardar);
 
-		if((whAddr % 800) == 0){
-			printf("\n\n%s\n\n", "Presione Enter para continuar...");
+		
 
-			while(1){
-				pau = fgetc(stdin);
-				if(pau == 0x0A){
-					break;
-				}
-			}
+			
 		}
-
-	}
 
 	
 }

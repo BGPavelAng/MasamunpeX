@@ -265,9 +265,9 @@ int showSeg(const char *nameS){
 	printf("%s\n", buf_tip);
 	printf("%s [0x%x]\n", buf_arch, headr->e_machine);
 	printf("[+]Version elf:                            0x%x\n", headr->e_version);
-	printf("[+]Entry:                                  0x%x\n", headr->e_entry);
-	printf("[+]Program header offset:                  0x%x\n", headr->e_phoff);
-	printf("[+]Section header offset:                  0x%x\n", headr->e_shoff);
+	printf("[+]Entry:                                  0x%lx\n", headr->e_entry);
+	printf("[+]Program header offset:                  0x%lx\n", headr->e_phoff);
+	printf("[+]Section header offset:                  0x%lx\n", headr->e_shoff);
 	printf("[+]Processor specific flags:               0x%x\n", headr->e_flags);
 	printf("[+]elf Size:                               0x%x\n", headr->e_ehsize);
 	printf("[+]Program header table entry size:        0x%x\n", headr->e_phentsize);
@@ -355,7 +355,7 @@ int showSeg(const char *nameS){
 			break;
 		}
 
-			printf("[%2d] %s\n     %2d-->\t[0x%016x]\t[%s]\t[0x%016x]\t[0x%016x]\t[%s]\n", t, secciones + sheadr[t].sh_name, t, sheadr[t].sh_addr, buf_ty,sheadr[t].sh_offset, sheadr[t].sh_size, buf_flg);
+			printf("[%2d] %s\n     %2d-->\t[0x%016lx]\t[%s]\t[0x%016lx]\t[0x%016lx]\t[%s]\n", t, secciones + sheadr[t].sh_name, t, sheadr[t].sh_addr, buf_ty,sheadr[t].sh_offset, sheadr[t].sh_size, buf_flg);
 
 			/*typedef struct Elf64_shdr {
   uint32_t sh_name;       

@@ -2,14 +2,14 @@
 
 void mostrar_direc(const struct dirent *show){
 
-    char buffPth[266];
+    char buffPth[512];
     FILE *Lpro;
     int pid = 0;;
 
     snprintf(buffPth, sizeof(buffPth), "/proc/%s/stat", show->d_name);
     Lpro = fopen(buffPth, "r");
 
-    fscanf(Lpro, "%d %s", &pid, &buffPth); //Id y nombre
+    fscanf(Lpro, "%d %s", &pid, buffPth); //Id y nombre
 
     printf("%5d %-20s\n", pid, buffPth);
 
