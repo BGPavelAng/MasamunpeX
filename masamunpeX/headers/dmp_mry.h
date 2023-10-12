@@ -5,9 +5,7 @@ void dmp_writ(FILE *MM, unsigned long whStar, long total){
 	unsigned long whAddr = 0;
 	int Longitud = 4096;
 	unsigned char pag[4096];
-	char buff[1];
 	fseek(MM, whStar,SEEK_SET);
-	char pau;
 
 	FILE * guardar;
 	guardar = fopen("dump_memory.txt", "w");
