@@ -22,8 +22,8 @@ ChatGPT aun no lo activo, pero pronto estará listo.
 
 Instalación necesaria - Gtk3
 
-Si aparece un error de D-bus es normal, puede arrreglarse con el siguiente comando "systemctl restart dbus"
-(Precaución, si reinicias dbus en tu sistema habrá un reinicio y podrías perder tu información).
+Si aparece un error de D-bus de un archivo o directorio no encontrado, puede arrreglarse con el siguiente comando "systemctl restart dbus" o reiniciar tu sistema, sin embargo, la aplicación sigue funcionando sin problema.
+(Precaución, si reinicias dbus habrá un reinicio de sistema y podrías perder tu información que no hayas guardado).
 
 En caso de aparecer "tubería rota o Break pipe", es normal, al intentar abrir un archivo siendo root desde el usuario puede provocar ese tipo de alerta, puedes verificarlo con "ls ~/.config/dconf", pero es normal, no hay necesidad de arreglar nada.
 
