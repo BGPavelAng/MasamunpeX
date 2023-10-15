@@ -15,6 +15,7 @@ Lista de Symbols utilizados en la aplicación.<br><br>
 
 ![sb1](https://user-images.githubusercontent.com/50802374/161444288-f9e518e9-e16e-42f3-858a-6adb0e8ff4d3.png)
 
+----------------------------------------------------------------------------------------------------------------------
 
 MasamunpeX GUI
 
