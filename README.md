@@ -2,13 +2,6 @@
 Version Masamunpe para Linux.<br>
 Es una herramienta para analizar procesos en ejecución en linux que podrían estar dañando al sistema como algun malware.<br> Ataca programas en memoría para ayudar a comprender el funcionamiento.
 
-Actualmente:
-Se puede listar los procesos ejecutados.<br>
-Mostrar datos del programa ( mapeo ELF).<br>
-Mostrar datos de segmentos ( mapeo ELF).<br>
-Lista de hexadecimales.<br>
-Dumpeo de memoria (/proc/{id}/mem & maps)<br><br>
-
 ![sb1](https://user-images.githubusercontent.com/50802374/161444288-f9e518e9-e16e-42f3-858a-6adb0e8ff4d3.png)
 
 ----------------------------------------------------------------------------------------------------------------------
@@ -17,7 +10,7 @@ MasamunpeX GUI - 0.3
 
 ChatGPT aun no lo activo, pero pronto estará listo.
 
-Instalación necesaria 
+Instalación necesaria --------
 
 Gtk3
 libcurl
@@ -25,6 +18,8 @@ curl
 
 *Si persiste un anuncio sobre libcurl es probable que se necesite la librería de desarrollo
 libcurl-devel (fedora) o libcurl-dev (ubuntu)
+
+---------------------
 
 Si aparece un error de D-bus de un archivo o directorio no encontrado, puede arrreglarse con el siguiente comando "systemctl restart dbus" o reiniciar tu sistema, sin embargo, la aplicación sigue funcionando sin problema.
 (Precaución, si reinicias dbus habrá un reinicio de sistema y podrías perder tu información que no hayas guardado).
