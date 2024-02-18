@@ -1,6 +1,6 @@
 # MasamunpeX
 Version Masamunpe para Linux.<br>
-Es una herramienta para analizar procesos en ejecución en linux que podrían estar dañando al sistema como algun malware.<br> Ataca programas en memoría para ayudar a comprender el funcionamiento.
+Es una herramienta para analizar procesos en ejecución o binarios en linux.
 
 ![sb1](https://user-images.githubusercontent.com/50802374/161444288-f9e518e9-e16e-42f3-858a-6adb0e8ff4d3.png)
 
@@ -8,7 +8,9 @@ Es una herramienta para analizar procesos en ejecución en linux que podrían es
 
 MasamunpeX GUI - 0.3
 
-ChatGPT aun no lo activo, pero pronto estará listo.
+Agregado chatGPT 3.5-turbo
+
+Pronto opcional entre chatGPT 3.5-turbo y ChatGPT 4 para usuarios de pago.
 
 Instalación necesaria --------
 
