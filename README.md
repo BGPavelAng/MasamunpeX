@@ -16,8 +16,8 @@ Pronto opcional entre chatGPT 3.5-turbo y ChatGPT 4 para usuarios de pago.
 
 Instalación necesaria
 
-Gtk3
-libcurl
+Gtk3<br>
+libcurl<br>
 curl
 
 *Si persiste un anuncio sobre libcurl es probable que se necesite la librería de desarrollo
