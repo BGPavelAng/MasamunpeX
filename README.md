@@ -12,7 +12,9 @@ Agregado chatGPT 3.5-turbo
 
 Pronto opcional entre chatGPT 3.5-turbo y ChatGPT 4 para usuarios de pago.
 
-Instalación necesaria --------
+Instalación necesaria
+
+---------------------
 
 Gtk3
 libcurl
