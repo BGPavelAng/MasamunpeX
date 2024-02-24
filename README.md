@@ -6,7 +6,7 @@ Es una herramienta para analizar procesos en ejecución o binarios en linux.
 
 ----------------------------------------------------------------------------------------------------------------------
 
-MasamunpeX GUI - 0.3
+MasamunpeX GUI - 0.3.1
 
 Agregado chatGPT 3.5-turbo
 
