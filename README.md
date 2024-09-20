@@ -6,8 +6,9 @@ Es una herramienta para analizar procesos en ejecución o binarios en linux.
 
 <h1>MasamunpeX GUI - 0.4.4</h1>
 
-Agregado Relocaciones dinámicas (Dynamic Relocation)
+Agregado Relocaciones dinámicas (Dynamic Relocation)-
 Soporte para analizar archivos de 32 y 64 bits.
+Seleccionar version de ChatGPT.
 
 ---------------------
 
