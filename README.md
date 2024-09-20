@@ -6,9 +6,7 @@ Es una herramienta para analizar procesos en ejecución o binarios en linux.
 
 ----------------------------------------------------------------------------------------------------------------------
 
-MasamunpeX GUI - 0.4.1
-
-Agregado chatGPT
+<h1>MasamunpeX GUI - 0.4.1</h1>
 
 Agregado Relocaciones dinámicas (Dynamic Relocation)
 
@@ -37,7 +35,6 @@ Hay probabilidad de tener errores cuando se atacan procesos activos y producir c
 ![3](https://github.com/BGPavelAng/MasamunpeX/assets/50802374/1d8ab7e2-205f-4d67-b443-188393c9c468)
 ![4](https://github.com/BGPavelAng/MasamunpeX/assets/50802374/c80fa86e-8c72-480a-a7ab-4b4f86733a43)
 ![5](https://github.com/BGPavelAng/MasamunpeX/assets/50802374/b8c0f67a-dcda-4dfa-a62c-ce51cf0c4b56)
-![6](https://github.com/BGPavelAng/MasamunpeX/assets/50802374/1e9076cc-310b-40f6-b596-2ed2bbdcada9)
 
 
 
