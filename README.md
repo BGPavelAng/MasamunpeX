@@ -6,11 +6,11 @@ Es una herramienta para analizar procesos en ejecución o binarios en linux.
 
 ----------------------------------------------------------------------------------------------------------------------
 
-MasamunpeX GUI - 0.3.1
+MasamunpeX GUI - 0.4.1
 
-Agregado chatGPT 3.5-turbo
+Agregado chatGPT
 
-Pronto opcional entre chatGPT 3.5-turbo y ChatGPT 4 para usuarios de pago.
+Agregado Relocaciones dinámicas (Dynamic Relocation)
 
 ---------------------
 
