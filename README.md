@@ -35,12 +35,12 @@ En caso de aparecer "tubería rota o Break pipe", es normal, al intentar abrir u
 
 Hay probabilidad de tener errores cuando se atacan procesos activos y producir congelamiento del sistema, hay que tener cuidado.
 
-![1](https://github.com/user-attachments/assets/dc59b943-af57-4d1f-a369-bf6dc42bd872)}
+![1](https://github.com/user-attachments/assets/6bc97b3f-aadc-4612-bb96-0bb281e35a5d)
 
-![2](https://github.com/user-attachments/assets/4cdf6aea-e961-4cb8-a715-fb8bf3b8e76f)
+![2](https://github.com/user-attachments/assets/2496e42f-1d7c-4135-b12f-2e2bb11b446d)
 
-![3](https://github.com/user-attachments/assets/ac591cc5-63ed-41f7-bb58-c52a077eb229)
+![3](https://github.com/user-attachments/assets/71bbea7b-b5ad-4e53-845e-6d46ec9963cc)
 
-![4](https://github.com/user-attachments/assets/aa801906-9586-426d-bdb6-fa92dcf2c194)
+![4](https://github.com/user-attachments/assets/3091f3a5-f6a1-4128-bbb1-a373b7310fd5)
 
-![5](https://github.com/user-attachments/assets/e026733e-049c-4d2f-bb94-1b82ae0a521c)
+![5](https://github.com/user-attachments/assets/0439a91d-8164-47f9-97f2-ba986c19bdc1)
