@@ -8,10 +8,10 @@ Es una herramienta para analizar procesos en ejecución o binarios en linux.
 
 Agregado checador de seguridad
 
--RELRO
--PIE
--NX
--Verificador de randomize_va_space
+-RELRO<br>
+-PIE<br>
+-NX<br>
+-Verificador de randomize_va_space<br>
 
 -Arreglo de errores.
 
