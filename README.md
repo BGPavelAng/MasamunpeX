@@ -14,6 +14,7 @@ Agregado checador de seguridad
 -Verificador de randomize_va_space<br>
 
 -Arreglo de errores.
+-Mejora visual
 
 ---------------------
 
