@@ -11,6 +11,7 @@ Agregado checador de seguridad
 -RELRO<br>
 -PIE<br>
 -NX<br>
+-Canarios<br>
 -Verificador de randomize_va_space<br>
 
 -Arreglo de errores.<br>
