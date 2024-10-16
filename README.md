@@ -35,11 +35,12 @@ En caso de aparecer "tubería rota o Break pipe", es normal, al intentar abrir u
 
 Hay probabilidad de tener errores cuando se atacan procesos activos y producir congelamiento del sistema, hay que tener cuidado.
 
-![1](https://github.com/BGPavelAng/MasamunpeX/assets/50802374/82f9870b-2ad7-4297-aa16-d757ca54ece9)
-![2](https://github.com/BGPavelAng/MasamunpeX/assets/50802374/d8e27ace-2111-46d2-ab83-b43d12cf0576)
-![3](https://github.com/BGPavelAng/MasamunpeX/assets/50802374/1d8ab7e2-205f-4d67-b443-188393c9c468)
-![4](https://github.com/BGPavelAng/MasamunpeX/assets/50802374/c80fa86e-8c72-480a-a7ab-4b4f86733a43)
-![5](https://github.com/BGPavelAng/MasamunpeX/assets/50802374/b8c0f67a-dcda-4dfa-a62c-ce51cf0c4b56)
+![1](https://github.com/user-attachments/assets/dc59b943-af57-4d1f-a369-bf6dc42bd872)}
 
+![2](https://github.com/user-attachments/assets/4cdf6aea-e961-4cb8-a715-fb8bf3b8e76f)
 
+![3](https://github.com/user-attachments/assets/ac591cc5-63ed-41f7-bb58-c52a077eb229)
 
+![4](https://github.com/user-attachments/assets/aa801906-9586-426d-bdb6-fa92dcf2c194)
+
+![5](https://github.com/user-attachments/assets/e026733e-049c-4d2f-bb94-1b82ae0a521c)
