@@ -13,8 +13,8 @@ Agregado checador de seguridad
 -NX<br>
 -Verificador de randomize_va_space<br>
 
--Arreglo de errores.
--Mejora visual
+-Arreglo de errores.<br>
+-Mejora visual.
 
 ---------------------
 
