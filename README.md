@@ -44,10 +44,11 @@ Hay probabilidad de tener errores cuando se atacan procesos activos y producir c
 
 ![1](https://github.com/user-attachments/assets/6bc97b3f-aadc-4612-bb96-0bb281e35a5d)
 
-![2](https://github.com/user-attachments/assets/2496e42f-1d7c-4135-b12f-2e2bb11b446d)
+![2](https://github.com/user-attachments/assets/a1f3fcce-784a-4b7d-a95f-5e792c1ff41b)
 
 ![3](https://github.com/user-attachments/assets/71bbea7b-b5ad-4e53-845e-6d46ec9963cc)
 
 ![4](https://github.com/user-attachments/assets/3091f3a5-f6a1-4128-bbb1-a373b7310fd5)
 
 ![5](https://github.com/user-attachments/assets/0439a91d-8164-47f9-97f2-ba986c19bdc1)
+
