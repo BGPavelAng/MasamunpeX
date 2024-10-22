@@ -4,7 +4,7 @@ Es una herramienta para analizar procesos en ejecución o binarios en linux.
 
 ----------------------------------------------------------------------------------------------------------------------
 
-<h1>MasamunpeX GUI - 0.5.5</h1>
+<h1>MasamunpeX GUI - 0.6.0</h1>
 
 
 -Lista de procesos<br>
@@ -21,12 +21,6 @@ Es una herramienta para analizar procesos en ejecución o binarios en linux.
 -Detalles de memoria<br>
 -Hexadecimales<br>
 -Conexión ChatGPT<br>
-
-
-
-
--Arreglo de errores.<br>
--Mejora visual.
 
 ---------------------
 
