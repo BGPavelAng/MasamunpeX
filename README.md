@@ -6,13 +6,24 @@ Es una herramienta para analizar procesos en ejecución o binarios en linux.
 
 <h1>MasamunpeX GUI - 0.5.5</h1>
 
-Agregado checador de seguridad
 
+-Lista de procesos<br>
 -RELRO<br>
 -PIE<br>
 -NX<br>
 -Canarios<br>
 -Verificador de randomize_va_space<br>
+-Información del proceso o binario<br>
+-Secciones<br>
+-Busqueda de información de las secciones<br>
+-Tabla de relocacion dinámica<br>
+-Busqueda de funciones<br>
+-Detalles de memoria<br>
+-Hexadecimales<br>
+-Conexión ChatGPT<br>
+
+
+
 
 -Arreglo de errores.<br>
 -Mejora visual.
